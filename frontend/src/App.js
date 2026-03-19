@@ -19,7 +19,7 @@ function App() {
   const [data, setData] = useState([]);
 
   // ✅ FIXED (no trailing slash)
-  const API_URL = "http://localhost:3000";
+  const API_URL = "https://fullstack-iot-environment-monitoring.onrender.com";
 
   useEffect(() => {
     const interval = setInterval(async () => {
