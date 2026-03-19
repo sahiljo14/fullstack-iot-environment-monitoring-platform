@@ -53,7 +53,7 @@ Create a `.env` file in the `backend` directory and add your database URL:
 
 ```env
 DATABASE_URL=your_supabase_connection_string
-```
+```..
 
 Run the backend server:
 
