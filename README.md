@@ -10,6 +10,13 @@ A real-time full-stack IoT platform that collects environmental data (temperatur
 *   📊 **Live data visualization** (frontend - upcoming)
 *   ⚡ **Scalable architecture** (device → cloud → dashboard)
 
+## 🌐 Live Demo
+
+🔗 Frontend: [https://fullstack-iot-environment-monitoring.app](https://fullstack-iot-environment-monitorin.vercel.app/)  
+🔗 Backend API: [https://fullstack-iot-environment-monitoring.onrender.com](https://fullstack-iot-environment-monitoring.onrender.com/data) 
+
+> ⚠️ Note: Data updates only when the simulator is running locally.
+
 ## 🏗️ Architecture
 `Sensor / Simulator` → `MQTT Broker` → `Backend` → `Database` → `Frontend`
 
