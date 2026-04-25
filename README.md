@@ -614,8 +614,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-Made with care by
-
 **[Sahil Joshi](https://github.com/sahiljo14)** &nbsp;·&nbsp; **[Omkar Sonawane](https://github.com/omkar-53)**
 
 [![GitHub](https://img.shields.io/badge/GitHub-sahiljo14-181717?style=flat-square&logo=github)](https://github.com/sahiljo14)
